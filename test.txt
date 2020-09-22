@@ -4,4 +4,8 @@ tested from remote origin
 
 added comments from feature branch
 
+<<<<<<< feature1
+unit testing
+=======
 creating conflicts
+>>>>>>> master
